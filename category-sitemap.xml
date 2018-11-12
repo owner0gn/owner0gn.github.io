@@ -36,20 +36,6 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/categories/book/</loc>
-        <lastmod>2018-08-13T11:26:44.868Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://devjang.github.io/categories/book/programming/</loc>
-        <lastmod>2018-08-13T11:26:44.868Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://devjang.github.io/categories/book/programming/java/</loc>
         <lastmod>2018-08-13T11:26:44.868Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -78,8 +64,22 @@
     </url>
 
     <url>
+        <loc>https://devjang.github.io/categories/book/</loc>
+        <lastmod>2018-11-12T04:57:14.228Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://devjang.github.io/categories/book/programming/</loc>
+        <lastmod>2018-11-12T04:57:14.228Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://devjang.github.io/categories/column/</loc>
-        <lastmod>2018-11-12T00:58:07.202Z</lastmod>
+        <lastmod>2018-11-12T04:57:18.260Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
