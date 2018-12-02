@@ -32,6 +32,14 @@
     </url>
 
     <url>
+        <loc>https://devjang.github.io/2017/12/21/2017-12-21-adieu-2017/</loc>
+        <lastmod>2018-08-13T11:26:44.868Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://devjang.github.io/2017/12/24/2017-12-24-open-ide-tip/</loc>
         <lastmod>2018-08-13T11:26:44.868Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -41,14 +49,6 @@
 
     <url>
         <loc>https://devjang.github.io/2017/12/30/2017-12-30-apprenticeship-patterns/</loc>
-        <lastmod>2018-08-13T11:26:44.868Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://devjang.github.io/2017/12/21/2017-12-21-adieu-2017/</loc>
         <lastmod>2018-08-13T11:26:44.868Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -168,14 +168,6 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2016/09/17/2016-09-17-java-book/</loc>
-        <lastmod>2018-08-13T11:26:44.863Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://devjang.github.io/2016/08/21/2016-08-21-dev-start/</loc>
         <lastmod>2018-08-13T11:26:44.863Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -192,6 +184,14 @@
     </url>
 
     <url>
+        <loc>https://devjang.github.io/2016/09/17/2016-09-17-java-book/</loc>
+        <lastmod>2018-08-13T11:26:44.863Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://devjang.github.io/2016/06/21/2016-06-21-power-persistence/</loc>
         <lastmod>2018-08-13T11:26:44.862Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -200,7 +200,7 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2016/06/27/2016-06-27-rediscovery-habit/</loc>
+        <loc>https://devjang.github.io/2016/06/24/2016-06-24-9xd/</loc>
         <lastmod>2018-08-13T11:26:44.862Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -208,7 +208,7 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2016/06/24/2016-06-24-9xd/</loc>
+        <loc>https://devjang.github.io/2016/06/27/2016-06-27-rediscovery-habit/</loc>
         <lastmod>2018-08-13T11:26:44.862Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>

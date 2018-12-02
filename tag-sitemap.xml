@@ -80,34 +80,6 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/tags/%EA%B0%80%EB%B3%8D%EA%B2%8C-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/</loc>
-        <lastmod>2018-08-13T11:26:44.862Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://devjang.github.io/tags/%EC%8A%B5%EA%B4%80%EC%9D%98-%EC%9E%AC%EB%B0%9C%EA%B2%AC/</loc>
-        <lastmod>2018-08-13T11:26:44.862Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://devjang.github.io/tags/%EC%9E%91%EC%9D%80-%EC%8A%B5%EA%B4%80%EC%9D%98-%ED%9E%98/</loc>
-        <lastmod>2018-08-13T11:26:44.862Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://devjang.github.io/tags/%ED%8C%94%EA%B5%BD%ED%98%80%ED%8E%B4%EA%B8%B0-%ED%95%98%EB%A3%A8-%ED%95%9C-%EB%B2%88/</loc>
-        <lastmod>2018-08-13T11:26:44.862Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://devjang.github.io/tags/90%EB%85%84%EC%83%9D-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%AA%A8%EC%9E%84/</loc>
         <lastmod>2018-08-13T11:26:44.862Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -137,6 +109,34 @@
 
     <url>
         <loc>https://devjang.github.io/tags/%ED%9B%8C%EB%A5%AD%ED%95%9C-%EA%B2%8C%EC%9E%84-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%90%98%EA%B8%B0/</loc>
+        <lastmod>2018-08-13T11:26:44.862Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://devjang.github.io/tags/%EA%B0%80%EB%B3%8D%EA%B2%8C-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/</loc>
+        <lastmod>2018-08-13T11:26:44.862Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://devjang.github.io/tags/%EC%8A%B5%EA%B4%80%EC%9D%98-%EC%9E%AC%EB%B0%9C%EA%B2%AC/</loc>
+        <lastmod>2018-08-13T11:26:44.862Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://devjang.github.io/tags/%EC%9E%91%EC%9D%80-%EC%8A%B5%EA%B4%80%EC%9D%98-%ED%9E%98/</loc>
+        <lastmod>2018-08-13T11:26:44.862Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://devjang.github.io/tags/%ED%8C%94%EA%B5%BD%ED%98%80%ED%8E%B4%EA%B8%B0-%ED%95%98%EB%A3%A8-%ED%95%9C-%EB%B2%88/</loc>
         <lastmod>2018-08-13T11:26:44.862Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -192,13 +192,6 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/tags/%EB%82%9C-%EC%A0%95%EB%A7%90-JAVA%EB%A5%BC-%EA%B3%B5%EB%B6%80%ED%95%9C-%EC%A0%81%EC%9D%B4-%EC%97%86%EB%8B%A4%EA%B5%AC%EC%9A%94/</loc>
-        <lastmod>2018-08-13T11:26:44.863Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://devjang.github.io/tags/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/</loc>
         <lastmod>2018-08-13T11:26:44.863Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -228,6 +221,13 @@
 
     <url>
         <loc>https://devjang.github.io/tags/%EA%B8%B0%EC%B4%88-%ED%8A%BC%ED%8A%BC-%EC%BD%94%EB%93%9C-%ED%8A%BC%ED%8A%BC-%EB%8B%A4-%ED%95%A8%EA%BB%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/</loc>
+        <lastmod>2018-08-13T11:26:44.863Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://devjang.github.io/tags/%EB%82%9C-%EC%A0%95%EB%A7%90-JAVA%EB%A5%BC-%EA%B3%B5%EB%B6%80%ED%95%9C-%EC%A0%81%EC%9D%B4-%EC%97%86%EB%8B%A4%EA%B5%AC%EC%9A%94/</loc>
         <lastmod>2018-08-13T11:26:44.863Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -346,6 +346,13 @@
     </url>
 
     <url>
+        <loc>https://devjang.github.io/tags/react/</loc>
+        <lastmod>2018-08-13T11:26:44.865Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://devjang.github.io/tags/%EC%9D%B8%EC%82%AC%EC%9D%B4%EB%93%9C-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/</loc>
         <lastmod>2018-08-13T11:26:44.865Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -368,13 +375,6 @@
 
     <url>
         <loc>https://devjang.github.io/tags/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/</loc>
-        <lastmod>2018-08-13T11:26:44.865Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://devjang.github.io/tags/react/</loc>
         <lastmod>2018-08-13T11:26:44.865Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -556,6 +556,20 @@
     </url>
 
     <url>
+        <loc>https://devjang.github.io/tags/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A9%98%ED%86%A0/</loc>
+        <lastmod>2018-08-13T11:26:44.868Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://devjang.github.io/tags/2017-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%9A%8C%EA%B3%A0/</loc>
+        <lastmod>2018-08-13T11:26:44.868Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://devjang.github.io/tags/%ED%84%B0%EB%AF%B8%EB%84%90-%EC%97%90%EB%94%94%ED%84%B0-%EC%8B%A4%ED%96%89/</loc>
         <lastmod>2018-08-13T11:26:44.868Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -592,20 +606,6 @@
 
     <url>
         <loc>https://devjang.github.io/tags/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B8%EC%83%9D/</loc>
-        <lastmod>2018-08-13T11:26:44.868Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://devjang.github.io/tags/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A9%98%ED%86%A0/</loc>
-        <lastmod>2018-08-13T11:26:44.868Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://devjang.github.io/tags/2017-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%9A%8C%EA%B3%A0/</loc>
         <lastmod>2018-08-13T11:26:44.868Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
