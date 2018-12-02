@@ -9,7 +9,7 @@
 
     <url>
         <loc>https://devjang.github.io/2018/11/25/2018-11-25-var-let-and-const/</loc>
-        <lastmod>2018-12-02T15:08:20.041Z</lastmod>
+        <lastmod>2018-12-02T15:42:52.318Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -40,7 +40,7 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2017/12/21/2017-12-21-adieu-2017/</loc>
+        <loc>https://devjang.github.io/2017/12/24/2017-12-24-open-ide-tip/</loc>
         <lastmod>2018-08-13T11:26:44.868Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -48,7 +48,7 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2017/12/24/2017-12-24-open-ide-tip/</loc>
+        <loc>https://devjang.github.io/2017/12/21/2017-12-21-adieu-2017/</loc>
         <lastmod>2018-08-13T11:26:44.868Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -144,14 +144,6 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2017/01/20/2017-01-20-js-book/</loc>
-        <lastmod>2018-08-13T11:26:44.864Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://devjang.github.io/2016/11/05/2016-11-05-gdg-devfest-seoul-2016/</loc>
         <lastmod>2018-08-13T11:26:44.864Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -168,8 +160,8 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2016/08/20/2016-08-20-java-book/</loc>
-        <lastmod>2018-08-13T11:26:44.863Z</lastmod>
+        <loc>https://devjang.github.io/2017/01/20/2017-01-20-js-book/</loc>
+        <lastmod>2018-08-13T11:26:44.864Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -177,6 +169,14 @@
 
     <url>
         <loc>https://devjang.github.io/2016/08/21/2016-08-21-dev-start/</loc>
+        <lastmod>2018-08-13T11:26:44.863Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://devjang.github.io/2016/08/20/2016-08-20-java-book/</loc>
         <lastmod>2018-08-13T11:26:44.863Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -200,14 +200,6 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2016/06/27/2016-06-27-rediscovery-habit/</loc>
-        <lastmod>2018-08-13T11:26:44.862Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://devjang.github.io/2016/06/21/2016-06-21-power-persistence/</loc>
         <lastmod>2018-08-13T11:26:44.862Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -217,6 +209,14 @@
 
     <url>
         <loc>https://devjang.github.io/2016/06/24/2016-06-24-9xd/</loc>
+        <lastmod>2018-08-13T11:26:44.862Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://devjang.github.io/2016/06/27/2016-06-27-rediscovery-habit/</loc>
         <lastmod>2018-08-13T11:26:44.862Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
