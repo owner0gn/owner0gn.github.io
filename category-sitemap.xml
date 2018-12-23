@@ -22,13 +22,6 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/categories/book/programming/javascript/</loc>
-        <lastmod>2018-08-13T11:26:44.866Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://devjang.github.io/categories/conference/</loc>
         <lastmod>2018-08-13T11:26:44.867Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -57,20 +50,6 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/categories/book/</loc>
-        <lastmod>2018-11-12T04:57:14.228Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://devjang.github.io/categories/book/programming/</loc>
-        <lastmod>2018-11-12T04:57:14.228Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://devjang.github.io/categories/column/</loc>
         <lastmod>2018-12-02T15:05:10.368Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -79,14 +58,35 @@
 
     <url>
         <loc>https://devjang.github.io/categories/programming/</loc>
-        <lastmod>2018-12-02T15:42:52.318Z</lastmod>
+        <lastmod>2018-12-02T15:44:07.556Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://devjang.github.io/categories/programming/javascript/</loc>
-        <lastmod>2018-12-02T15:42:52.318Z</lastmod>
+        <lastmod>2018-12-02T15:44:07.556Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://devjang.github.io/categories/book/</loc>
+        <lastmod>2018-12-23T02:07:52.370Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://devjang.github.io/categories/book/programming/</loc>
+        <lastmod>2018-12-23T02:07:52.370Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://devjang.github.io/categories/book/programming/javascript/</loc>
+        <lastmod>2018-12-23T02:07:52.370Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

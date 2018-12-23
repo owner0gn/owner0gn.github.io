@@ -8,8 +8,16 @@
     </url>
 
     <url>
+        <loc>https://devjang.github.io/2018/12/23/2018-12-23-ths-principles-of-oop-js/</loc>
+        <lastmod>2018-12-23T02:07:52.370Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://devjang.github.io/2018/11/25/2018-11-25-var-let-and-const/</loc>
-        <lastmod>2018-12-02T15:42:52.318Z</lastmod>
+        <lastmod>2018-12-02T15:44:07.556Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -40,7 +48,7 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2017/12/24/2017-12-24-open-ide-tip/</loc>
+        <loc>https://devjang.github.io/2017/12/30/2017-12-30-apprenticeship-patterns/</loc>
         <lastmod>2018-08-13T11:26:44.868Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -56,7 +64,7 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2017/12/30/2017-12-30-apprenticeship-patterns/</loc>
+        <loc>https://devjang.github.io/2018/04/12/2018-04-12-this-is-java/</loc>
         <lastmod>2018-08-13T11:26:44.868Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -64,7 +72,7 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2018/04/12/2018-04-12-this-is-java/</loc>
+        <loc>https://devjang.github.io/2017/12/24/2017-12-24-open-ide-tip/</loc>
         <lastmod>2018-08-13T11:26:44.868Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -88,7 +96,7 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2017/08/13/2017-08-13-learning-js/</loc>
+        <loc>https://devjang.github.io/2017/11/16/2017-11-16-okky/</loc>
         <lastmod>2018-08-13T11:26:44.866Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -96,7 +104,7 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2017/11/16/2017-11-16-okky/</loc>
+        <loc>https://devjang.github.io/2017/08/13/2017-08-13-learning-js/</loc>
         <lastmod>2018-08-13T11:26:44.866Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -152,14 +160,6 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2017/01/24/2017-01-24-w3c-html5-45/</loc>
-        <lastmod>2018-08-13T11:26:44.864Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://devjang.github.io/2017/01/20/2017-01-20-js-book/</loc>
         <lastmod>2018-08-13T11:26:44.864Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -168,8 +168,8 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2016/08/21/2016-08-21-dev-start/</loc>
-        <lastmod>2018-08-13T11:26:44.863Z</lastmod>
+        <loc>https://devjang.github.io/2017/01/24/2017-01-24-w3c-html5-45/</loc>
+        <lastmod>2018-08-13T11:26:44.864Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -177,6 +177,14 @@
 
     <url>
         <loc>https://devjang.github.io/2016/08/20/2016-08-20-java-book/</loc>
+        <lastmod>2018-08-13T11:26:44.863Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://devjang.github.io/2016/08/21/2016-08-21-dev-start/</loc>
         <lastmod>2018-08-13T11:26:44.863Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
